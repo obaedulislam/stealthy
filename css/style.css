@@ -33,6 +33,10 @@ h4{
 h6{
     font-size: 24px;
 }
+p{
+    font-size: 20px;
+    color: #333333;
+}
 /* ===|| Common CSS End ||=== */
 
 
@@ -53,10 +57,14 @@ header{
 }
 .hero-iconbox{
     background-color: #F5F5F5;
+    border-radius: 10px;
 }
 .hero-icon i{
-    font-size: 80px;
-    color: #111310;
+    font-size: 60px;
+    color: #666666;
+}
+.hero-icon-title h6{
+    color: #222222;
 }
 /* ===|| Header CSS End ||=== */
 
