@@ -95,19 +95,28 @@ header{
 }
 
 /* ===|| Bookies Fleece CSS Start ||=== */
-.bookies-section{
+.bookies-section, .unquoted-section, .ooto-section{
     background-color: #F5F5F5;
 }
-.bookies-fleece-heading{
+.bookies-fleece-heading, .unquoted-market-heading, .oot-ordinary-heading{
     background-color: #f6343f;
 }
-.bookies-fleece-content h5{
+.bookies-fleece-content h5, .unquoted-market-content h5,.oot-ordinary-content h5 {
     font-family: 'Lato', sans-serif;
     color: #222222;
 }
-
 /* ===|| Bookies Fleece CSS End ||=== */
 
+/* ===|| E Book CSS Start ||=== */
+.ebook-section{
+    background-color: #fbdd13;
+    padding: 50px 0;
+}
+.ebook-content h6{
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+}
+/* ===|| E Book CSS End ||=== */
 
 
 /* ===|| Footer CSS Start ||=== */
