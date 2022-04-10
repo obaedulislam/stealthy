@@ -1,0 +1,39 @@
+/* ===|| All Font Integration  Start ||=== */
+@font-face {
+    font-family: 'geomanistregular', Arial, sans-serif;
+    src: url(../fonts/geomanist-regular-webfont.ttf);
+}
+@font-face {
+    font-family: 'geomanist-italic', Arial, sans-serif;;
+    src: url(../fonts/geomanist-regular-italic-webfont.ttf);
+}
+
+/* ===|| All Font Integration  Start ||=== */
+
+
+/* ===|| Common CSS Start ||=== */
+body{
+    font-family: 'geomanistregular', Arial, sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+    font-size: 18px;
+    color:  #000;;
+}
+
+h1
+/* ===|| Common CSS End ||=== */
+
+
+/* ===|| Header CSS Start ||=== */
+
+/* ===|| Header CSS End ||=== */
+
+
+
+/* ===|| Footer CSS Start ||=== */
+
+/* ===|| Footer CSS End ||=== */
