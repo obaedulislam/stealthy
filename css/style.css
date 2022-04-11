@@ -53,6 +53,9 @@ p{
     font-size: 20px;
     color: #000;
 }
+ul{
+    padding-left: 0;
+}
 /* ===|| Common CSS End ||=== */
 
 
@@ -209,5 +212,5 @@ header{
 .footer-section{
     background-color: #f6343f;
 }
-.footer-section {}
+
 /* ===|| Footer CSS End ||=== */

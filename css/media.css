@@ -1,14 +1,135 @@
   
 /* Extra Small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) { 
-
+    h1 {
     
+        font-size: 24px !important;
+    }
+    
+    h3 {
+
+        font-size: 20px !important;
+    }
+
+    h4 {
+        font-size: 18px !important;
+    }
+
+    h5 {
+        font-size: 16px !important;
+    }
+
+    h6 {
+        font-size: 14px !important;
+    }
+
+    p {
+        font-size: 14px !important;
+    }
+
+    .hero-icon i {
+        font-size: 26px !important;
+    }
+
+    header, .letter-section,
+    .bookies-section,
+    .unquoted-section,
+    .ooto-section,
+    .trenches-section,
+    .learn-list-section,
+    .football-betting-section {
+        padding: 0 10px;
+    }
+    .ebook-section{
+        margin: 0 10px;
+    }
+    .bookies-fleece-content h5,
+    .unquoted-market-content h5,
+    .oot-ordinary-content h5,
+    .football-betting-heading h5 {
+        font-size: 16px !important;
+    }
+
+    .learn-left ul li i {
+        font-size: 18px !important;
+    }
+
+    .learn-left ul li span {
+        font-size: 15px !important;
+    }
+
+    .ebook-button button,
+    .ebook-button2 button {
+        font-size: 16px !important;
+    }
+
+    .content-img img {
+        margin: 10px 0;
+        width: 30% !important;
+    }
+    .learn-right img{
+        width: 30% !important;
+    }
  }
 
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) and (max-width: 767.98px)  { 
-
+    h1 {
+    
+            font-size: 32px !important;
+        }
+    
+        h3 {
+    
+            font-size: 24px !important;
+        }
+    
+        h4 {
+            font-size: 22px !important;
+        }
+    
+        h5 {
+            font-size: 18px !important;
+        }
+    
+        h6 {
+            font-size: 16px !important;
+        }
+    
+        p {
+            font-size: 16px !important;
+        }
+        .hero-icon i {
+            font-size: 30px !important;
+        }
+        .bookies-fleece-content h5,
+        .unquoted-market-content h5,
+        .oot-ordinary-content h5,
+        .football-betting-heading h5 {
+            font-size: 16px !important;
+        }
+    
+        .learn-left ul li i {
+            font-size: 18px !important;
+        }
+    
+        .learn-left ul li span {
+            font-size: 15px !important;
+        }
+    
+        .ebook-button button,
+        .ebook-button2 button {
+            font-size: 18px !important;
+        }
+        .content-img img{
+            margin: 10px 0;
+            width: 30% !important;
+        }
+        .learn-right img {
+            margin: 30px 0;
+            width: 30% !important;
+        }
   
  }
 
