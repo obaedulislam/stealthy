@@ -54,6 +54,11 @@
             font-size: 15px !important;
         }
 
+        .ebook-button button,
+        .ebook-button2 button {
+            font-size: 20px !important;
+        }
+
 
  }
 
