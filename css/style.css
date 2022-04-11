@@ -95,13 +95,13 @@ header{
 }
 
 /* ===|| Bookies Fleece CSS Start ||=== */
-.bookies-section, .unquoted-section, .ooto-section{
+.bookies-section, .unquoted-section, .ooto-section, .trenches-section, .learn-list-section, .football-betting-section{
     background-color: #F5F5F5;
 }
-.bookies-fleece-heading, .unquoted-market-heading, .oot-ordinary-heading{
+.bookies-fleece-heading, .unquoted-market-heading, .oot-ordinary-heading, .trenches-heading, .learn-list-heading, .football-betting-heading{
     background-color: #f6343f;
 }
-.bookies-fleece-content h5, .unquoted-market-content h5,.oot-ordinary-content h5 {
+.bookies-fleece-content h5, .unquoted-market-content h5,.oot-ordinary-content h5, .football-betting-heading h5{
     font-family: 'Lato', sans-serif;
     color: #222222;
 }
@@ -117,6 +117,59 @@ header{
     font-style: italic;
 }
 /* ===|| E Book CSS End ||=== */
+
+/* ===|| Learn List CSS Start ||=== */
+.learn-list-section{}
+.learn-list-section .learn-left{}
+.learn-left ul li{
+    list-style: none;
+}
+.learn-left ul li i{
+    margin-right: 10px;
+    font-size: 30px;
+}
+.learn-left ul li span {
+    font-size: 18px;
+}
+/* ===|| Learn List CSS End ||=== */
+
+/* ===|| E Book CSS Start ||=== */
+
+.ebook-content h6 {
+    font-family: 'Lato', sans-serif;
+}
+.ebook-button button{
+    font-family: 'Lato', sans-serif;
+    background-color: #fbdd13;
+    color: #222222;
+    border: none;
+    font-size: 26px;
+    border: 3px solid #222222;
+    border-bottom: 7px solid #222222;
+    border-radius: 8px;
+    transition: .5s;
+}
+.ebook-button button i{
+    color: #000;
+}
+.ebook-button button:hover {
+    transform: scale(1.1);
+}
+.important-note p{
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+}
+
+/* ===|| E Book CSS End ||=== */
+
+
+/* ===|| Football Betting CSS Start||=== */
+.take-action span {
+    background-color: #fbdd13;
+    border-radius: 5px 25px;
+}
+/* ===|| Football Betting CSS End||=== */
+
 
 
 /* ===|| Footer CSS Start ||=== */
