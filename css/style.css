@@ -95,7 +95,15 @@ header{
 }
 
 /* ===|| Bookies Fleece CSS Start ||=== */
-
+.arrow{
+    width: 0;
+    height: 0;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 25px solid #f6343f;;
+    position: absolute;
+    left: 50%;
+}
 .letter-section, .bookies-section, .unquoted-section, .ooto-section, .trenches-section, .learn-list-section, .football-betting-section{
     background-color: #F5F5F5;
 }
@@ -107,6 +115,7 @@ header{
 }
 .bookies-fleece-heading, .unquoted-market-heading, .oot-ordinary-heading, .trenches-heading, .learn-list-heading, .football-betting-heading{
     background-color: #f6343f;
+    position: relative;
 }
 .bookies-fleece-content h5, .unquoted-market-content h5,.oot-ordinary-content h5, .football-betting-heading h5{
     font-family: 'Lato', sans-serif;
@@ -137,7 +146,7 @@ header{
 }
 .learn-left ul li i{
     margin-right: 10px;
-    font-size: 30px;
+    font-size: 25px;
     color: #fbdd13;
 }
 .learn-left ul li span {
