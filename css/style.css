@@ -95,8 +95,15 @@ header{
 }
 
 /* ===|| Bookies Fleece CSS Start ||=== */
-.bookies-section, .unquoted-section, .ooto-section, .trenches-section, .learn-list-section, .football-betting-section{
+
+.letter-section, .bookies-section, .unquoted-section, .ooto-section, .trenches-section, .learn-list-section, .football-betting-section{
     background-color: #F5F5F5;
+}
+.container-border{ 
+    border-bottom: 1px solid rgb(210, 210, 210);
+    border-left: 1px solid  rgb(210, 210, 210);
+    border-right: 1px solid  rgb(210, 210, 210);
+    border-radius: 0 0 10px 10px;
 }
 .bookies-fleece-heading, .unquoted-market-heading, .oot-ordinary-heading, .trenches-heading, .learn-list-heading, .football-betting-heading{
     background-color: #f6343f;
