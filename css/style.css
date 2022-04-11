@@ -93,6 +93,13 @@ header{
 .focus-section, .focus-section2{
     background-color: #fbdd13;
 }
+.last-heading h4{
+    text-shadow:
+            -1px -1px 0 #333,
+            1px -1px 0 #333,
+            -1px 1px 0 #333,
+            1px 1px 0 #333;
+}
 
 /* ===|| Bookies Fleece CSS Start ||=== */
 .arrow{
@@ -102,7 +109,7 @@ header{
     border-right: 25px solid transparent;
     border-top: 25px solid #f6343f;;
     position: absolute;
-    left: 50%;
+    left: 48%;
 }
 .letter-section, .bookies-section, .unquoted-section, .ooto-section, .trenches-section, .learn-list-section, .football-betting-section{
     background-color: #F5F5F5;
@@ -174,7 +181,8 @@ header{
     color: #000;
 }
 .ebook-button button:hover, .ebook-button2 button:hover {
-    transform: scale(1.1);
+    background-color: #F5F5F5;
+    transform: scale(1.05);
 }
 .important-note p{
     font-family: 'Lato', sans-serif;
