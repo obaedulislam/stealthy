@@ -90,7 +90,7 @@ header{
 }
 /* ===|| Header CSS End ||=== */
 
-.focus-section{
+.focus-section, .focus-section2{
     background-color: #fbdd13;
 }
 
@@ -104,6 +104,10 @@ header{
 .bookies-fleece-content h5, .unquoted-market-content h5,.oot-ordinary-content h5, .football-betting-heading h5{
     font-family: 'Lato', sans-serif;
     color: #222222;
+}
+.truth-quote{
+    background-color: #fbdd13;
+    border-radius: 50px 0;
 }
 /* ===|| Bookies Fleece CSS End ||=== */
 
@@ -135,10 +139,10 @@ header{
 
 /* ===|| E Book CSS Start ||=== */
 
-.ebook-content h6 {
+.ebook-content2 h6, .ebook-content3 {
     font-family: 'Lato', sans-serif;
 }
-.ebook-button button{
+.ebook-button button, .ebook-button2 button{
     font-family: 'Lato', sans-serif;
     background-color: #fbdd13;
     color: #222222;
@@ -149,10 +153,10 @@ header{
     border-radius: 8px;
     transition: .5s;
 }
-.ebook-button button i{
+.ebook-button button i, .ebook-button2 button i{
     color: #000;
 }
-.ebook-button button:hover {
+.ebook-button button:hover, .ebook-button2 button:hover {
     transform: scale(1.1);
 }
 .important-note p{
@@ -169,6 +173,14 @@ header{
     border-radius: 5px 25px;
 }
 /* ===|| Football Betting CSS End||=== */
+
+
+/* ===|| Letter section2 CSS Start||=== */
+.person-img2 p{
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 0;
+}
+/* ===|| Letter section2 CSS End||=== */
 
 
 
