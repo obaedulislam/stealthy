@@ -30,7 +30,7 @@ body{
 }
 p{
     font-size: 18px;
-    color:  #000;;
+    color:  #000;
 }
 
 h1{
@@ -185,5 +185,8 @@ header{
 
 
 /* ===|| Footer CSS Start ||=== */
-
+.footer-section{
+    background-color: #f6343f;
+}
+.footer-section {}
 /* ===|| Footer CSS End ||=== */
