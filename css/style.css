@@ -174,15 +174,23 @@ header .ebook-button button {
 .learn-list-section{}
 .learn-list-section .learn-left{}
 .learn-left ul li{
+    background-color: #F5F5F5;
     list-style: none;
 }
 .learn-left ul li i{
-    margin-right: 10px;
-    font-size: 25px;
+    margin-right: 15px;
+    font-size: 28px;
     color: #fbdd13;
+    background-color:  #222222;
+    width: 60px;
+    height: 60px;
+    padding-top: 17px;
+    text-align: center;
+    border-radius: 50%;
 }
 .learn-left ul li span {
-    font-size: 18px;
+    margin-top: 15px;
+    font-size: 16px;
 }
 /* ===|| Learn List CSS End ||=== */
 
