@@ -165,6 +165,9 @@ header .ebook-button button {
     font-size: 30px;
     color: #fff;
 }
+.ebook-section2, .ebook-section3{
+    background-color: #666666;
+}
 /* ===|| E Book CSS End ||=== */
 
 /* ===|| Learn List CSS Start ||=== */
