@@ -68,10 +68,10 @@ header{
 }
 .initial-heading{
     color: #fbdd13;
-    border-radius:  0 30px;
 }
 .initial-heading h6{
     color: #fff;
+    font-size: 22px;
     text-shadow:
             -1px -1px 0 #333,
             1px -1px 0 #333,
