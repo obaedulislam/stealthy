@@ -165,8 +165,17 @@ header .ebook-button button {
     font-size: 30px;
     color: #fff;
 }
-.ebook-section2, .ebook-section3{
-    background-color: #666666;
+.ebook-section2{
+    background-image: url(../images/buynow-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.ebook-section3 {
+    background-image: url(../images/buynow-bg2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
 /* ===|| E Book CSS End ||=== */
 
