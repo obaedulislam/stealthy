@@ -63,8 +63,18 @@
     }
     ul.xs-flex li{
         width: 100% !important;
+        display: block !important;
+        text-align: center !important;
     }
-
+    ul.xs-flex li:nth-child(1) {
+        margin-bottom: 15px !important;
+    }
+    ul.xs-flex li i{
+        margin-bottom: 10px !important;
+        font-size: 16px !important;
+        width: 40px !important;
+        height: 40px !important;
+    }
     .ebook-button button,
     .ebook-button2 button {
         font-size: 16px !important;
