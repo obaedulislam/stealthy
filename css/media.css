@@ -58,6 +58,13 @@
         font-size: 15px !important;
     }
 
+    ul.xs-flex{
+        display: block !important;
+    }
+    ul.xs-flex li{
+        width: 100% !important;
+    }
+
     .ebook-button button,
     .ebook-button2 button {
         font-size: 16px !important;
